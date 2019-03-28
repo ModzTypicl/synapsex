@@ -1,1 +1,32 @@
 By getting the software, you hereby agree to the Terms and Conditions. If you do not agree with the Terms and Conditions, please refrain from getting and/or using the software.
+
+Download:
+http://loukamb.github.io
+Download the Bootstrapper!
+
+Whitelist here:
+b2b60f3c-3802-40d8-a354-2f33ecf66265
+172aa3a0-2798-46b3-af84-3c8a59e426db
+d156755b-64c8-467a-943b-9bdf9d7e149b
+7503c85d-f644-4cb9-83c5-810ddcf5585b
+44ce93b2-8e73-4f8a-bfc9-c08f3f06f59d
+cbe10612-51a8-11e9-8647-d663bd873d93
+cbe10b3a-51a8-11e9-8647-d663bd873d93
+cbe10cde-51a8-11e9-8647-d663bd873d93
+cbe10e32-51a8-11e9-8647-d663bd873d93
+cbe10f90-51a8-11e9-8647-d663bd873d93
+cbe110da-51a8-11e9-8647-d663bd873d93
+cbe11580-51a8-11e9-8647-d663bd873d93
+cbe1174c-51a8-11e9-8647-d663bd873d93
+cbe118aa-51a8-11e9-8647-d663bd873d93
+cbe119fe-51a8-11e9-8647-d663bd873d93
+cbe11b52-51a8-11e9-8647-d663bd873d93
+cbe11c9c-51a8-11e9-8647-d663bd873d93
+cbe11de6-51a8-11e9-8647-d663bd873d93
+cbe1225a-51a8-11e9-8647-d663bd873d93
+cbe123d6-51a8-11e9-8647-d663bd873d93
+cbe12570-51a8-11e9-8647-d663bd873d93
+cbe126ce-51a8-11e9-8647-d663bd873d93
+cbe12822-51a8-11e9-8647-d663bd873d93
+cbe1296c-51a8-11e9-8647-d663bd873d93
+cbe12c00-51a8-11e9-8647-d663bd873d93
